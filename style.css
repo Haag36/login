@@ -77,3 +77,7 @@ body {
     margin: 0 50px;
     
 }
+
+.botão:houver {
+    background-color: rgb(0, 58, 182);
+}
